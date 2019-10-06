@@ -1,0 +1,17 @@
+Citations:
+
+1. 	How to popup datepicker when click on edittext?
+	Answer by: Android_coder on Feb 18, 2013
+	Edited by: Alireza Noorali on Dec 4, 2018
+	URL: https://stackoverflow.com/questions/14933330/datepicker-how-to-popup-datepicker-when-click-on-edittext
+
+2.	Android confirmation message for delete
+	Answer by: Ram kiran on July 31 2012
+	URL: https://stackoverflow.com/questions/11740311/android-confirmation-message-for-delete
+
+3.	Getting a Result from an Activity
+	URL: https://developer.android.com/training/basics/intents/result
+
+4.	Custom Array Adapter from Lab Exercise 2
+	Author: Alexander Filbert
+	URL: https://eclass.srv.ualberta.ca/pluginfile.php/5206268/mod_forum/post/3216752/Lab%202%20Exercise%20Solution.zip
